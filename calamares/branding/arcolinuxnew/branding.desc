@@ -48,7 +48,7 @@ windowExpanding:    normal
 # This setting is ignored if "fullscreen" is selected for
 # *windowExpanding*, above. If not set, use constants defined
 # in CalamaresUtilsGui, 800x520.
-windowSize: 1100px,700px
+windowSize: 1200px,800px
 
 # Placement of Calamares window. Either "center" or "free".
 # Whether "center" actually works does depend on the window
@@ -230,3 +230,4 @@ slideshowAPI: 2
 uploadServer :
     type :    "fiche"
     url :     "http://termbin.com:9999"
+    sizeLimit : -1
