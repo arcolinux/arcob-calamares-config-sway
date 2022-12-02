@@ -1,2 +1,2 @@
-# ArcoLinuxB-icewm Calamares configuration
+# ArcoLinuxB-sway Calamares configuration
 
